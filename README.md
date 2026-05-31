@@ -30,8 +30,8 @@ Build a bidirectional LSTM model for sequence tagging.
 Train the model over multiple epochs, tracking loss.
 
 ## PROGRAM
-### Name: ALIYA SHEEMA
-### Reg No: 212223230011
+### Name: KIRAN M P
+### Reg No: 212224230123
 ```
 import pandas as pd
 import torch
